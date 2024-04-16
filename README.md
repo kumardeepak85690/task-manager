@@ -53,7 +53,7 @@ define('DB_USERNAME', 'root'); //Your Database username instead of 'root'
 define('DB_PASSWORD', ''); //Your Database Password instead of null/empty
 define('DB_NAME', 'task_manager'); //Your Database Name if it's not 'task_manager'
 
-define('SITEURL', 'http://localhost:8080/task-manager-master/'); //Update the home URL of the project if you have changed port number or it's live on server
+define('SITEURL', 'http://localhost:8080/task-manager/'); //Update the home URL of the project if you have changed port number or it's live on server
 
 ?>
 ```
